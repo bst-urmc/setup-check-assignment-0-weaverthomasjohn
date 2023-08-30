@@ -7,7 +7,7 @@ plot(Calories, Sodium, xlab="Calories", ylab="Sodium", pch=16)
 cor(Calories, Sodium)
 
 plot(Calories, Sodium, xlab="Calories", ylab="Sodium", 
-	col=Type, pch=16)
+	col="blue", pch=16)
 
 #########################################################################
 

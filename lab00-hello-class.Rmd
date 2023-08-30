@@ -1,7 +1,7 @@
 ---
-title: "Lab 00 - Hello Class!"
+title: "Lab 00 - This is TJ and he is cool"
 date: "2016-09-07 (updated `r Sys.Date()` by TL)"
-author: "Tanzy Love"
+author: "TJ Weaver"
 output: 
   tufte::tufte_html:
     tufte_variant: "envisioned"
